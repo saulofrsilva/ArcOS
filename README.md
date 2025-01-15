@@ -1,292 +1,218 @@
-# ArcOS: The last paradigm in Open Source system ARChitecture
+# ArcOS: O último paradigma na ARQuitetura de sistemas de código aberto
 
-## Who We Are
+## Quem Somos
 
-We are a community-driven organization dedicated to fostering innovation, empowering individuals, and building a sustainable future. We believe in the power of collaboration and the potential of technology to transform lives. Our mission is to create a world where:
+Somos uma organização orientada pela comunidade, dedicada a fomentar a inovação, capacitar indivíduos e construir um futuro sustentável. Acreditamos no poder da colaboração e no potencial da tecnologia para transformar vidas. Nossa missão é criar um mundo onde:
 
-* **Individuals** have the tools and knowledge to realize their full potential.
-* **Communities** thrive through shared knowledge and collective action.
-* **Technology** is used to solve real-world problems and create positive impact.
+* **Indivíduos** tenham as ferramentas e o conhecimento para realizar seu pleno potencial.
+* **Comunidades** prosperem através do compartilhamento de conhecimento e ação coletiva.
+* **Tecnologia** seja usada para resolver problemas do mundo real e criar um impacto positivo.
 
-We are committed to:
+Estamos comprometidos com:
 
-* **Openness:** Sharing knowledge and resources freely.
-* **Inclusivity:** Welcoming people from all backgrounds and perspectives.
-* **Sustainability:** Building a future that is environmentally and socially responsible.
+* **Abertura:** Compartilhar conhecimento e recursos livremente.
+* **Inclusividade:** Receber pessoas de todas as origens e perspectivas.
+* **Sustentabilidade:** Construir um futuro que seja ambiental e socialmente responsável.
 
-## Why Join Us?
+## Por Que Se Juntar a Nós?
 
-* **Take Ownership:** We empower you to contribute and reap the rewards of your efforts.
-* **Uncover Hidden Potential:** We encourage exploration and the discovery of innovative solutions.
-* **Invest in Your Future:** We believe your time and contributions are valuable and will contribute to a meaningful legacy.
+* **Assuma a Propriedade:** Nós capacitamos você a contribuir e colher os frutos de seus esforços.
+* **Descubra Potencial Oculto:** Incentivamos a exploração e a descoberta de soluções inovadoras.
+* **Invista no Seu Futuro:** Acreditamos que seu tempo e contribuições são valiosos e contribuirão para um legado significativo.
 
-## Our Mission
+## Nossa Missão
 
-We believe in:
+Acreditamos em:
 
-* **User-Centricity:** Creating accessible and user-friendly technology for everyone.
-* **Community-Driven Development:** Leveraging the power of open-source collaboration.
-* **Real-World Impact:** Addressing the critical needs of real-world infrastructure.
-* **Decentralization:** Promoting the equitable distribution of resources and ownership.
-* **Sustainable Growth:** Fostering the harmonious development of individuals and institutions.
-* **Innovation:** Driving cutting-edge advancements to address future challenges.
+* **Centralidade no Usuário:** Criar tecnologia acessível e fácil de usar para todos.
+* **Desenvolvimento Orientado pela Comunidade:** Aproveitar o poder da colaboração de código aberto.
+* **Impacto no Mundo Real:** Abordar as necessidades críticas da infraestrutura do mundo real.
+* **Descentralização:** Promover a distribuição equitativa de recursos e propriedade.
+* **Crescimento Sustentável:** Fomentar o desenvolvimento harmonioso de indivíduos e instituições.
+* **Inovação:** Impulsionar avanços de ponta para enfrentar desafios futuros.
 
-## The Landscape
+## O Cenário
 
-The current landscape faces significant challenges:
+O cenário atual enfrenta desafios significativos:
 
-* **Fragmentation:** The open-source community lacks the unity and focus to compete effectively in the market.
-* **Limited Access:** Hardware ownership is restricted by proprietary technologies and complex manufacturing processes.
-* **Data Ownership:** The current system for data ownership is unclear and often unfair.
+* **Fragmentação:** A comunidade de código aberto carece de unidade e foco para competir efetivamente no mercado.
+* **Acesso Limitado:** A propriedade de hardware é restrita por tecnologias proprietárias e processos de fabricação complexos.
+* **Propriedade de Dados:** O sistema atual de propriedade de dados é obscuro e muitas vezes injusto.
 
-## Vision
+## Visão
 
-**We envision a future where:**
+**Nós imaginamos um futuro onde:**
 
-* Human-computer interaction is seamless and intuitive, enabling true and meaningful human connection across the globe.
-* The open-source landscape is revolutionized by establishing a collaborative ecosystem where innovative technology is accessible and shaped by a global community.
-* We want to create a sustainable model for open-source development, empowering users with unprecedented control over their computing experience.
-* We aim to be the go-to meta-operating system in the open-source world, enabling the community to create their own bespoke systems.
+* A interação humano-computador é perfeita e intuitiva, permitindo uma conexão humana verdadeira e significativa em todo o mundo.
+* O cenário de código aberto é revolucionado ao estabelecer um ecossistema colaborativo onde a tecnologia inovadora é acessível e moldada por uma comunidade global.
+* Queremos criar um modelo sustentável para o desenvolvimento de código aberto, capacitando os usuários com controle sem precedentes sobre sua experiência de computação.
+* Nosso objetivo é ser o sistema operacional meta de referência no mundo de código aberto, permitindo que a comunidade crie seus próprios sistemas personalizados.
 
-"Arc OS" is not just another distribution; it is intended to be a unified ecosystem that promotes collaboration by providing a common foundation and development practices. This approach reduces duplication of effort and inconsistencies among projects, ensuring seamless integration of innovative features while maintaining user privacy and long-term sustainability.
+"Arc OS" não é apenas outra distribuição; é um ecossistema unificado que promove a colaboração ao fornecer uma base comum e práticas de desenvolvimento. Essa abordagem reduz a duplicação de esforços e inconsistências entre projetos, garantindo a integração perfeita de recursos inovadores enquanto mantém a privacidade do usuário e a sustentabilidade a longo prazo.
 
-## Core Problems Addressed
+## Problemas Centrais Abordados
 
-- **Fragmentation:** The project addresses the fragmentation of open-source efforts by creating a cohesive, modular system.
-- **Accessibility:** It aims to improve accessibility for non-technical users with user-friendly interfaces, simplified installation, and comprehensive documentation.
-- **Vendor Lock-in:** "Arc OS" seeks to reduce reliance on proprietary code through open-source alternatives and community-driven development.
+- **Fragmentação:** O projeto aborda a fragmentação dos esforços de código aberto criando um sistema coeso e modular.
+- **Acessibilidade:** Visa melhorar a acessibilidade para usuários não técnicos com interfaces amigáveis, instalação simplificada e documentação abrangente.
+- **Dependência de Fornecedores:** "Arc OS" busca reduzir a dependência de código proprietário através de alternativas de código aberto e desenvolvimento orientado pela comunidade.
 
-## Goals
+## Objetivos
 
-*   Build a thriving global community of users and contributors.
-*   Provide a secure, stable, and customizable modular system where users may choose each component and features to fit any particular requirements.
-*   Offer a decentralized network for sharing resources and innovation.
-*   Develop the assistive technologies to make the project accessible to non technical users and people with disabilities.
+* Construir uma comunidade global próspera de usuários e colaboradores.
+* Fornecer um sistema modular seguro, estável e personalizável onde os usuários possam escolher cada componente e recursos para atender a requisitos específicos.
+* Oferecer uma rede descentralizada para compartilhamento de recursos e inovação.
+* Desenvolver tecnologias assistivas para tornar o projeto acessível a usuários não técnicos e pessoas com deficiência.
 
-## Key Deliverables
+## Entregáveis Principais
 
-1. **"Arc OS" Development:**
-    * **Modular Base OS:** A customizable operating system based on the Unix approach, allowing users to select components from the kernel to userland apps.
-    * **Core Features (Alpha):** Secure boot, system hardening, basic drivers for x86_64, ARM, and RISC-V, resource management, networking, modular package manager, and an advanced user interface for development and testing.
-    * **Accessibility:** "Arc OS" will be designed with accessibility in mind, ensuring it can be used by people with disabilities.
-    * **Documentation:** Comprehensive developer documentation, user manuals, and installation guides in the main languages of the community members.
+1. **Desenvolvimento do "Arc OS":**
+    * **Sistema Operacional Base Modular:** Um sistema operacional personalizável baseado na abordagem Unix, permitindo que os usuários selecionem componentes desde o kernel até aplicativos de usuário.
+    * **Recursos Principais (Alpha):** Inicialização segura, fortalecimento do sistema, drivers básicos para x86_64, ARM e RISC-V, gerenciamento de recursos, rede, gerenciador de pacotes modular e uma interface de usuário avançada para desenvolvimento e testes.
+    * **Acessibilidade:** "Arc OS" será projetado com acessibilidade em mente, garantindo que possa ser usado por pessoas com deficiência.
+    * **Documentação:** Documentação abrangente para desenvolvedores, manuais de usuário e guias de instalação nos principais idiomas dos membros da comunidade.
 
-2. **Web Archive:**
-    * An organized repository of open-source projects, research papers, source code, and datasets, categorized for easy access.
-    * Version control integration using Git.
-    * Robust metadata system with tags, authors, dates, and categories for efficient search.
+2. **Arquivo Web:**
+    * Um repositório organizado de projetos de código aberto, artigos de pesquisa, código-fonte e conjuntos de dados, categorizados para fácil acesso.
+    * Integração de controle de versão usando Git.
+    * Sistema robusto de metadados com tags, autores, datas e categorias para busca eficiente.
 
 3. **WebApp:**
-    * **MVP Features:** User registration, project information, community forum/chat, issue tracking, and basic file sharing.
-    * **Community Tools:** Integration with a dedicated communication platform (Discourse/Matrix), knowledge base (wiki), and collaborative development platforms (GitHub/GitLab).
+    * **Recursos MVP:** Registro de usuários, informações do projeto, fórum/comunicação da comunidade, rastreamento de problemas e compartilhamento básico de arquivos.
+    * **Ferramentas da Comunidade:** Integração com uma plataforma de comunicação dedicada (Discourse/Matrix), base de conhecimento (wiki) e plataformas de desenvolvimento colaborativo (GitHub/GitLab).
 
-4. **Community Infrastructure:**
-    * Creation of development and testing network through the usage of "Arc OS" in the community, using a decentralized peer-to-peer architecture.
-    * Automated testing system to validate code commits.
-    * Secure communications between developers and other members.
-    * Remote access to virtual and physical systems.
+4. **Infraestrutura da Comunidade:**
+    * Criação de uma rede de desenvolvimento e testes através do uso do "Arc OS" na comunidade, usando uma arquitetura descentralizada peer-to-peer.
+    * Sistema de testes automatizados para validar commits de código.
+    * Comunicações seguras entre desenvolvedores e outros membros.
+    * Acesso remoto a sistemas virtuais e físicos.
 
-## Target Audience
+## Público-Alvo
 
-**"Arc OS: Built for Everyone"**
+**"Arc OS: Feito para Todos"**
 
-"Arc OS is designed to be a versatile operating system that meets the needs of a wide range of users, from those with limited technical experience to seasoned professionals. Our goal is to empower everyone with a customizable, secure, and community-driven platform."
+"Arc OS é projetado para ser um sistema operacional versátil que atende às necessidades de uma ampla gama de usuários, desde aqueles com experiência técnica limitada até profissionais experientes. Nosso objetivo é capacitar todos com uma plataforma personalizável, segura e orientada pela comunidade."
 
-*   **Non-Technical Users:**
-    *   **Description:** Individuals who are not deeply familiar with computer technology but still want a reliable, easy-to-use, and secure system.
-    *   **Needs:**
-        *   User-friendly interfaces and intuitive navigation.
-        *   Simplified installation and configuration processes.
-        *   Extensive, easy-to-understand documentation and tutorials.
-        *   A curated selection of applications that meet common daily tasks.
-        *   A system that is stable and reliable, requiring minimal troubleshooting.
-    *   **"Arc OS" Approach:** "We'll provide a streamlined experience with a preconfigured set of applications, a friendly graphical interface, and clear step-by-step instructions."
+* **Usuários Não Técnicos:**
+    * **Descrição:** Indivíduos que não estão profundamente familiarizados com a tecnologia de computadores, mas ainda assim desejam um sistema confiável, fácil de usar e seguro.
+    * **Necessidades:**
+        * Interfaces amigáveis e navegação intuitiva.
+        * Processos de instalação e configuração simplificados.
+        * Documentação e tutoriais extensivos e fáceis de entender.
+        * Uma seleção curada de aplicativos que atendem às tarefas diárias comuns.
+        * Um sistema estável e confiável, que requer mínima solução de problemas.
+    * **Abordagem do "Arc OS":** "Forneceremos uma experiência simplificada com um conjunto pré-configurado de aplicativos, uma interface gráfica amigável e instruções claras passo a passo."
 
-*   **Professional Users:**
-    *   **Description:** Individuals who rely on their computers for work and require a stable, powerful, and efficient system. This includes developers, designers, researchers, content creators, and other professionals.
-    *   **Needs:**
-        *   High performance and resource management capabilities.
-        *   A robust development environment with cutting-edge tools.
-        *   Compatibility with a wide range of software and hardware.
-        *   Advanced security features and data protection.
-        *   Automation tools and scripting capabilities.
-        *   Reliable system with minimal downtime.
-    *   **"Arc OS" Approach:** "We'll offer a modular design allowing professionals to tailor the OS for specific workflows, with advanced resource management, comprehensive tooling, and a stable foundation for mission-critical tasks."
+* **Usuários Profissionais:**
+    * **Descrição:** Indivíduos que dependem de seus computadores para o trabalho e precisam de um sistema estável, poderoso e eficiente. Isso inclui desenvolvedores, designers, pesquisadores, criadores de conteúdo e outros profissionais.
+    * **Necessidades:**
+        * Alto desempenho e capacidades de gerenciamento de recursos.
+        * Um ambiente de desenvolvimento robusto com ferramentas de ponta.
+        * Compatibilidade com uma ampla gama de software e hardware.
+        * Recursos avançados de segurança e proteção de dados.
+        * Ferramentas de automação e capacidades de script.
+        * Sistema confiável com tempo de inatividade mínimo.
+    * **Abordagem do "Arc OS":** "Ofereceremos um design modular que permite aos profissionais personalizar o sistema operacional para fluxos de trabalho específicos, com gerenciamento avançado de recursos, ferramentas abrangentes e uma base estável para tarefas críticas."
 
-*   **Businesses (Small to Enterprise):**
-    *   **Description:** Companies of all sizes seeking a secure, customizable, and cost-effective operating system solution. This includes startups, small businesses, and large enterprises.
-    *   **Needs:**
-        *   Enterprise-grade security and compliance features.
-        *   Scalability and resource management for multiple devices/systems.
-        *   Customization options for branding and specific requirements.
-        *   Reliable long-term support and maintenance.
-        *   Cost-effectiveness and reduced reliance on proprietary software licenses.
-        *   Support for virtualization and cloud integration.
-    *   **"Arc OS" Approach:** "We'll provide a system with enterprise-level security features, a modular architecture for easy customization, and a community-driven support model, making it a cost-effective and flexible choice for businesses of all sizes."
+* **Empresas (Pequenas a Grandes):**
+    * **Descrição:** Empresas de todos os tamanhos que buscam uma solução de sistema operacional segura, personalizável e econômica. Isso inclui startups, pequenas empresas e grandes corporações.
+    * **Necessidades:**
+        * Recursos de segurança e conformidade de nível empresarial.
+        * Escalabilidade e gerenciamento de recursos para múltiplos dispositivos/sistemas.
+        * Opções de personalização para branding e requisitos específicos.
+        * Suporte e manutenção confiáveis a longo prazo.
+        * Custo-benefício e redução da dependência de licenças de software proprietário.
+        * Suporte para virtualização e integração com a nuvem.
+    * **Abordagem do "Arc OS":** "Forneceremos um sistema com recursos de segurança de nível empresarial, uma arquitetura modular para fácil personalização e um modelo de suporte orientado pela comunidade, tornando-o uma escolha econômica e flexível para empresas de todos os tamanhos."
 
-*   **Developers & System Administrators:**
-    *   **Description:** The backbone of open-source projects. This includes kernel developers, application developers, system engineers, and other specialists.
-    *   **Needs:**
-        *   Access to low-level system functionality and customization.
-        *   A robust development and debugging environment.
-        *   Advanced package management capabilities.
-        *   A platform for collaboration, code sharing, and testing.
-        *   A stable system that provides flexibility for testing and development.
-    *   **"Arc OS" Approach:** "We'll offer a flexible and powerful platform that is designed with development in mind. A system where every detail can be tailored and explored, and will be built to foster collaboration and innovation."
+* **Desenvolvedores e Administradores de Sistemas:**
+    * **Descrição:** A espinha dorsal dos projetos de código aberto. Isso inclui desenvolvedores de kernel, desenvolvedores de aplicativos, engenheiros de sistemas e outros especialistas.
+    * **Necessidades:**
+        * Acesso a funcionalidades de sistema de baixo nível e personalização.
+        * Um ambiente de desenvolvimento e depuração robusto.
+        * Capacidades avançadas de gerenciamento de pacotes.
+        * Uma plataforma para colaboração, compartilhamento de código e testes.
+        * Um sistema estável que oferece flexibilidade para testes e desenvolvimento.
+    * **Abordagem do "Arc OS":** "Ofereceremos uma plataforma flexível e poderosa que é projetada com o desenvolvimento em mente. Um sistema onde cada detalhe pode ser personalizado e explorado, e será construído para fomentar a colaboração e a inovação."
 
-*   **Power Users & Enthusiasts:**
-    *   **Description:** Individuals who enjoy fine-tuning their systems and experimenting with new technologies.
-    *   **Needs:**
-        *   Extensive customization options and deep control over the system.
-        *   Access to cutting-edge features and early versions of software.
-        *   A platform for learning, experimenting, and exploring.
-        *   A community of like-minded individuals.
-    *   **"Arc OS" Approach:** "We'll provide a system for endless tweaking, and exploration, where users can dive deep into the system. A platform to learn and share, with a community that values innovation and pushing limits."
+* **Usuários Avançados e Entusiastas:**
+    * **Descrição:** Indivíduos que gostam de ajustar seus sistemas e experimentar novas tecnologias.
+    * **Necessidades:**
+        * Extensas opções de personalização e controle profundo sobre o sistema.
+        * Acesso a recursos de ponta e versões iniciais de software.
+        * Uma plataforma para aprender, experimentar e explorar.
+        * Uma comunidade de indivíduos com interesses semelhantes.
+    * **Abordagem do "Arc OS":** "Forneceremos um sistema para ajustes e explorações infinitas, onde os usuários podem mergulhar profundamente no sistema. Uma plataforma para aprender e compartilhar, com uma comunidade que valoriza a inovação e ultrapassar limites."
 
-*   **Educational Institutions:**
-    *   **Description:** Schools, universities, and research institutions that require an open, flexible, and secure system for education and research purposes.
-    *   **Needs:**
-        *   Customization options for educational requirements.
-        *   A platform for creating specialized learning environments.
-        *   Security for student and research data.
-        *   Support for various programming languages and software tools.
-        *   Open and transparent environment for research and development.
-    *   **"Arc OS" Approach:** "We'll provide a robust system that can be easily configured for various educational needs. The open source nature makes it perfect for research and creating a safe platform for students to learn."
+* **Instituições Educacionais:**
+    * **Descrição:** Escolas, universidades e instituições de pesquisa que precisam de um sistema aberto, flexível e seguro para fins educacionais e de pesquisa.
+    * **Necessidades:**
+        * Opções de personalização para requisitos educacionais.
+        * Uma plataforma para criar ambientes de aprendizado especializados.
+        * Segurança para dados de estudantes e pesquisas.
+        * Suporte para várias linguagens de programação e ferramentas de software.
+        * Ambiente aberto e transparente para pesquisa e desenvolvimento.
+    * **Abordagem do "Arc OS":** "Forneceremos um sistema robusto que pode ser facilmente configurado para várias necessidades educacionais. A natureza de código aberto o torna perfeito para pesquisa e criação de uma plataforma segura para os estudantes aprenderem."
 
-*   **Accessibility Focused Users:**
-    *   **Description:** Individuals with specific accessibility needs.
-    *   **Needs:**
-        *   Compatibility with assistive technologies.
-        *   Customizable system to adapt to visual, auditory, motor, and cognitive needs.
-        *   Comprehensive documentation and support for accessibility features.
-    *   **"Arc OS" Approach:** "Accessibility will be a core design principle. We will ensure the system is compatible with assistive technologies, customizable to individual needs and offer comprehensive documentation."
+* **Usuários com Foco em Acessibilidade:**
+    * **Descrição:** Indivíduos com necessidades específicas de acessibilidade.
+    * **Necessidades:**
+        * Compatibilidade com tecnologias assistivas.
+        * Sistema personalizável para se adaptar a necessidades visuais, auditivas, motoras e cognitivas.
+        * Documentação abrangente e suporte para recursos de acessibilidade.
+    * **Abordagem do "Arc OS":** "A acessibilidade será um princípio de design central. Garantiremos que o sistema seja compatível com tecnologias assistivas, personalizável para necessidades individuais e ofereça documentação abrangente."
 
-## Code of Conduct
+## Código de Conduta
 
-The Arc OS project is dedicated to providing a welcoming and inclusive environment for everyone, regardless of their background, identity, or level of experience. This Code of Conduct applies to all project spaces, both online and offline, and is intended to foster a community built on respect, collaboration, and empathy.
+O projeto Arc OS é dedicado a fornecer um ambiente acolhedor e inclusivo para todos, independentemente de sua origem, identidade ou nível de experiência. Este Código de Conduta se aplica a todos os espaços do projeto, tanto online quanto offline, e é destinado a fomentar uma comunidade baseada em respeito, colaboração e empatia.
 
-**We expect community members to:**
+**Esperamos que os membros da comunidade:**
 
-*   Be respectful in all forms of communication and interaction, both online and offline.
-*   Be welcoming to newcomers and provide support to all members.
-*   Be empathetic and understanding of diverse backgrounds, perspectives, *and lived experiences*, and be considerate when communicating with others who may have different points of view.
-*   Provide constructive feedback and be open to receiving it from others.
-*   Focus on collaboration, not competition and celebrate collective success.
+* Sejam respeitosos em todas as formas de comunicação e interação, tanto online quanto offline.
+* Recebam bem os novos membros e forneçam suporte a todos os membros.
+* Sejam empáticos e compreensivos com diversas origens, perspectivas e experiências vividas, e sejam considerados ao se comunicar com outros que possam ter pontos de vista diferentes.
+* Forneçam feedback construtivo e estejam abertos a recebê-lo de outros.
+* Foquem na colaboração, não na competição, e celebrem o sucesso coletivo.
 
-**The following behaviors are not acceptable within the Arc OS community:**
+**Os seguintes comportamentos não são aceitáveis dentro da comunidade Arc OS:**
 
-*   Harassment of any kind, including personal attacks, offensive jokes, stalking, and intimidation.
-*   Discrimination based on race, ethnicity, gender, gender identity, sexual orientation, age, religion, disability, or any other protected characteristic.
-*   Hate speech, slurs, or any language that promotes intolerance or discrimination.
-*   Spamming, trolling, or *any behavior that disrupts the community’s collaborative flow, including but not limited to off-topic discussions in project channels, and consistently derailing conversations*.
-*  Public or private disclosure of someone's private information without their consent.
-* Retaliation against individuals who report a CoC violation will not be tolerated and will result in disciplinary action.
+* Assédio de qualquer tipo, incluindo ataques pessoais, piadas ofensivas, perseguição e intimidação.
+* Discriminação com base em raça, etnia, gênero, identidade de gênero, orientação sexual, idade, religião, deficiência ou qualquer outra característica protegida.
+* Discurso de ódio, insultos ou qualquer linguagem que promova intolerância ou discriminação.
+* Spam, trolling ou qualquer comportamento que interrompa o fluxo colaborativo da comunidade, incluindo, mas não se limitando a discussões fora do tópico nos canais do projeto e desviar consistentemente as conversas.
+* Divulgação pública ou privada de informações privadas de alguém sem seu consentimento.
+* Retaliação contra indivíduos que relatem uma violação do Código de Conduta não será tolerada e resultará em ação disciplinar.
 
-If you experience or witness a violation of this Code of Conduct, please report it immediately to [designated email address]. Please provide as much detail as possible, including any relevant screenshots, dates, times, locations, and details of the incident. All reports will be kept confidential, and if requested, the reporter's identity will remain anonymous. The reporter's information will only be disclosed on the case that the reporter allows it, and when it's strictly needed to complete the investigation.
+Se você experimentar ou testemunhar uma violação deste Código de Conduta, por favor, reporte imediatamente para [endereço de e-mail designado]. Por favor, forneça o máximo de detalhes possível, incluindo capturas de tela relevantes, datas, horários, locais e detalhes do incidente. Todos os relatórios serão mantidos confidenciais e, se solicitado, a identidade do denunciante permanecerá anônima. As informações do denunciante só serão divulgadas caso o denunciante permita e quando for estritamente necessário para concluir a investigação.
 
-The Arc OS community will be actively enforcing this Code of Conduct. Any violations will be reviewed by the designated CoC enforcement team, consisting of the project maintainers or a community-elected board. The team will investigate reported violations, reach out to all parties involved, and determine appropriate actions.
+A comunidade Arc OS aplicará ativamente este Código de Conduta. Quaisquer violações serão revisadas pela equipe de aplicação do CoC designada, composta pelos mantenedores do projeto ou um conselho eleito pela comunidade. A equipe investigará as violações relatadas, entrará em contato com todas as partes envolvidas e determinará as ações apropriadas.
 
-**These actions may include:**
+**Essas ações podem incluir:**
 
-*   A verbal or written warning
-*   Temporary suspension from project spaces.
-*   Loss of privileges and access to resources
-*   Permanent ban from the community.
+* Um aviso verbal ou escrito
+* Suspensão temporária dos espaços do projeto.
+* Perda de privilégios e acesso a recursos
+* Banimento permanente da comunidade.
 
-This Code of Conduct is a living document and may be revised as needed. We welcome community feedback and suggestions for improvement. The CoC enforcement team will periodically review and update this document as deemed necessary, with consideration of all community contributions. Any updates will be publicly announced within the community.
+Este Código de Conduta é um documento vivo e pode ser revisado conforme necessário. Acolhemos feedback e sugestões da comunidade para melhorias. A equipe de aplicação do CoC revisará periodicamente e atualizará este documento conforme necessário, considerando todas as contribuições da comunidade. Quaisquer atualizações serão anunciadas publicamente dentro da comunidade.
 
-For any questions or concerns about this Code of Conduct, please contact us at [designated email address].
+Para quaisquer perguntas ou preocupações sobre este Código de Conduta, entre em contato conosco em [endereço de e-mail designado].
 
-## Join Us
+## Junte-se a Nós
 
-We invite you to join us in this exciting journey. Contact us today and let's build the future together.
+Convidamos você a se juntar a nós nesta jornada emocionante. Entre em contato conosco hoje e vamos construir o futuro juntos.
 
-**[Join the Community](#)** | **[Contribute to the Project](#)**
+**[Junte-se à Comunidade](#)** | **[Contribua para o Projeto](#)**
 
-## Execution Plan
+## Plano de Execução
 
-**Phase 1: Laying the Groundwork (Immediate Priorities)**
+**Fase 1: Lançando as Bases (Prioridades Imediatas)**
 
-1.  **Launch a Basic Webapp MVP:** Focus on the core features outlined in the deliverable:
-*   User registration and authentication.
-*   Basic project information (description, vision, goals, and roadmap).
-*   A community forum (Discourse or similar) or basic chat integration (Matrix/IRC).
-*   A very basic issue tracking system (e.g., GitHub issues on a dedicated repository).
+1. **Lançar um MVP Básico do Webapp:** Focar nos recursos principais descritos no entregável:
+* Registro e autenticação de usuários.
+* Informações básicas do projeto (descrição, visão, objetivos e roadmap).
+* Um fórum da comunidade (Discourse ou similar) ou integração básica de chat (Matrix/IRC).
+* Um sistema de rastreamento de problemas muito básico (por exemplo, problemas do GitHub em um repositório dedicado).
 
-2.  **Define and Document Core Principles:**
-*   **Document a Code of Conduct:** Ensure a welcoming and inclusive environment.
-*   **Define Core Project Principles:** Document the vision, goals, development philosophy, ethical considerations, and technical choices.
-
- *   **Tools:** Use a markdown file, a static site generator, or similar to document everything and put this directly on the basic webapp.
-3. **Recruit Initial Core Team:**
-    * **Priority:** Find a small group of dedicated collaborators to help bootstrap the project.
-    * **Action:**
-         *   **Reach out on relevant channels:** Advertise in open source communities (NixOS forum, Reddit, Mastodon, etc.)
-         *   **Look for specific skills:** Focus on those skilled in NixOS, system administration, web development, documentation and testing.
-         *   **Build a shared project roadmap:** Get this initial team involved in planning and strategy.
-     * **Why this is crucial:** A core team will help distribute the work, ensure quality and build momentum.
-4.  **Develop a Basic "Arc OS" Development Environment:**
-
-    *   **Priority:** Prepare for the operating system development
-    *   **Action:**
-        *   **Choose a Base Distribution:** Select NixOS. This should be your target development system.
-        *   **Set up a basic reproducible development environment:** A method to setup all the required dependencies for development (using Docker, Vagrant or similar)
-        *  **Initial Documentation:** Document for the team how to access and test the initial version.
-    *   **Why this is crucial:** Enables the core team to start development and testing.
-5.  **Establish a Basic Web Archive:**
-    *   **Priority:** Start organizing resources needed for r&d
-    *   **Action:**
-        *   **Initial setup of the technology for archiving relevant resources:** Source code, datasets, documentation, etc.
-        *  **Start documenting the resources:** Set up a basic metadata system (tags, authors, date) to search the data
-    *   **Why this is crucial:** This is the starting point of the long term R&D program
-
-**Phase 2: Building Momentum (Short-Term Goals)**
-
-1.  **Expand Webapp Features:**
-    *   **Priority:** Improve the central communication hub.
-    *   **Action:** Add more advanced features:
-        *   Issue tracking system enhancements.
-        *   Improved user profiles and contribution tracking.
-        *   Basic file sharing capabilities.
-        *   Knowledge-base/wiki integration for documentation.
-        *   Consider creating a simple dashboard for key metrics and contribution monitoring.
-2.  **Start Initial "Arc OS" Development:**
-    *   **Priority:** Begin working on the core OS components.
-    *   **Action:**
-        *   **Focus on Initial MVP:** Secure boot, system hardening, minimal drivers, basic networking and package manager
-        *   **Implement basic testing procedures:** Use automatic testing and continuous integration
-3.  **Establish Core Project Infrastructure:**
-    *   **Priority:** Set the base for continuous development.
-    *   **Action:**
-        *   **Set up automated testing:** Implement a basic testing framework.
-        *   **Set up build system:** Implement reproducible builds
-        *   **Integrate a collaborative code platform:** GitHub or GitLab to facilitate contributions.
-4.  **Initiate Outreach and Community Building:**
-    *   **Priority:** Begin attracting more contributors.
-    *   **Action:**
-        *   Start advertising on relevant communities mentioned earlier.
-        *   Create more detailed documentation to show the project and make it more atractive to newcomers.
-        *   Create some videos or blog post explaining the project.
-        *   Set up basic metrics to track progress of all the efforts.
-5. **Explore Initial Funding Options:**
-    *   **Priority:** Start making the project sustainable
-    *   **Action:**
-        *   Start documenting all the expenses
-        *   Start developing material for the crowdfunding campaign
-        *   Explore other options like grants and donations.
-
-**Why this Order?**
-
-*   **Community First:** The webapp is paramount for assembling a community and directing efforts. Without a place to gather, the project struggles to get off the ground.
-*   **Foundation Before Building:** Establishing core principles, documentation, development environment and initial community helps set the stage for productive development.
-*   **Iterative Approach:** Starting with basic webapp features, initial OS modules and minimal infrastructure keeps initial tasks manageable and allows for evolution based on initial feedback.
-*   **Sustainable Growth:** Start outreach and explore funding early to get the community rolling and ensure the financial stability of the project.
-
-**Key Considerations for the Start:**
-
-*   **Simplicity and Functionality:** Don't get bogged down with complex features or designs early on. Focus on essential functionality.
-*   **Open Communication:** Maintain open communication with the small community and solicit feedback.
-*   **Transparency:** Be transparent about decisions, progress, and challenges.
-*   **Be Agile:** Expect to iterate based on user and contributor feedback.
-
-By following these steps, the "Arc OS" project can begin on solid footing, focusing on the most essential components to build momentum, attract a community, and move toward the realization of its ambitious vision. Good luck!
+2. **Definir e Documentar Princípios Básicos:**
+* **Documentar um Código de Conduta:** Garantir um ambiente acolhedor e inclusivo.
+* **Definir Princípios Básicos do Projeto:** Documentar a visão, objetivos, filosofia
