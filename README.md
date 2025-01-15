@@ -197,22 +197,90 @@ Este Código de Conduta é um documento vivo e pode ser revisado conforme necess
 
 Para quaisquer perguntas ou preocupações sobre este Código de Conduta, entre em contato conosco em [endereço de e-mail designado].
 
-## Junte-se a Nós
-
-Convidamos você a se juntar a nós nesta jornada emocionante. Entre em contato conosco hoje e vamos construir o futuro juntos.
-
-**[Junte-se à Comunidade](#)** | **[Contribua para o Projeto](#)**
-
 ## Plano de Execução
 
-**Fase 1: Lançando as Bases (Prioridades Imediatas)**
+**Fase 1: Preparando o Terreno (Prioridades Imediatas)**
 
-1. **Lançar um MVP Básico do Webapp:** Focar nos recursos principais descritos no entregável:
+1. **Lançar um MVP Básico do Webapp:** Focar nos recursos principais delineados no entregável:
 * Registro e autenticação de usuários.
 * Informações básicas do projeto (descrição, visão, objetivos e roadmap).
-* Um fórum da comunidade (Discourse ou similar) ou integração básica de chat (Matrix/IRC).
-* Um sistema de rastreamento de problemas muito básico (por exemplo, problemas do GitHub em um repositório dedicado).
+* Um fórum comunitário (Discourse ou similar) ou integração de chat básico (Matrix/IRC).
+* Um sistema básico de rastreamento de problemas (por exemplo, problemas do GitHub em um repositório dedicado).
 
-2. **Definir e Documentar Princípios Básicos:**
+2. **Definir e Documentar Princípios Fundamentais:**
 * **Documentar um Código de Conduta:** Garantir um ambiente acolhedor e inclusivo.
-* **Definir Princípios Básicos do Projeto:** Documentar a visão, objetivos, filosofia
+* **Definir Princípios Fundamentais do Projeto:** Documentar a visão, objetivos, filosofia de desenvolvimento, considerações éticas e escolhas técnicas.
+
+* **Ferramentas:** Use um arquivo markdown, um gerador de site estático ou similar para documentar tudo e colocar isso diretamente no webapp básico.
+3. **Recrutar a Equipe Central Inicial:**
+    * **Prioridade:** Encontrar um pequeno grupo de colaboradores dedicados para ajudar a iniciar o projeto.
+    * **Ação:**
+         * **Alcance em canais relevantes:** Anunciar em comunidades de código aberto (fórum NixOS, Reddit, Mastodon, etc.)
+         * **Procurar habilidades específicas:** Focar naqueles com habilidades em NixOS, administração de sistemas, desenvolvimento web, documentação e testes.
+         * **Construir um roadmap compartilhado do projeto:** Envolver essa equipe inicial no planejamento e na estratégia.
+     * **Por que isso é crucial:** Uma equipe central ajudará a distribuir o trabalho, garantir a qualidade e construir momentum.
+4. **Desenvolver um Ambiente Básico de Desenvolvimento do "Arc OS":**
+
+    * **Prioridade:** Preparar para o desenvolvimento do sistema operacional
+    * **Ação:**
+        * **Escolher uma Distribuição Base:** Selecionar NixOS. Este deve ser o seu sistema de desenvolvimento alvo.
+        * **Configurar um ambiente de desenvolvimento reprodutível básico:** Um método para configurar todas as dependências necessárias para o desenvolvimento (usando Docker, Vagrant ou similar)
+        * **Documentação Inicial:** Documentar para a equipe como acessar e testar a versão inicial.
+    * **Por que isso é crucial:** Permite que a equipe central comece o desenvolvimento e os testes.
+5. **Estabelecer um Arquivo Web Básico:**
+    * **Prioridade:** Começar a organizar os recursos necessários para P&D
+    * **Ação:**
+        * **Configuração inicial da tecnologia para arquivar recursos relevantes:** Código-fonte, conjuntos de dados, documentação, etc.
+        * **Começar a documentar os recursos:** Configurar um sistema de metadados básico (tags, autores, data) para pesquisar os dados
+    * **Por que isso é crucial:** Este é o ponto de partida do programa de P&D a longo prazo
+
+**Fase 2: Construindo Momentum (Metas de Curto Prazo)**
+
+1. **Expandir Recursos do Webapp:**
+    * **Prioridade:** Melhorar o hub central de comunicação.
+    * **Ação:** Adicionar recursos mais avançados:
+        * Melhorias no sistema de rastreamento de problemas.
+        * Perfis de usuário aprimorados e rastreamento de contribuições.
+        * Capacidades básicas de compartilhamento de arquivos.
+        * Integração de base de conhecimento/wiki para documentação.
+        * Considerar a criação de um painel simples para métricas chave e monitoramento de contribuições.
+2. **Iniciar o Desenvolvimento Inicial do "Arc OS":**
+    * **Prioridade:** Começar a trabalhar nos componentes principais do sistema operacional.
+    * **Ação:**
+        * **Focar no MVP Inicial:** Boot seguro, endurecimento do sistema, drivers mínimos, rede básica e gerenciador de pacotes
+        * **Implementar procedimentos básicos de teste:** Usar testes automáticos e integração contínua
+3. **Estabelecer Infraestrutura Central do Projeto:**
+    * **Prioridade:** Definir a base para o desenvolvimento contínuo.
+    * **Ação:**
+        * **Configurar testes automatizados:** Implementar uma estrutura de teste básica.
+        * **Configurar sistema de build:** Implementar builds reprodutíveis
+        * **Integrar uma plataforma colaborativa de código:** GitHub ou GitLab para facilitar contribuições.
+4. **Iniciar Divulgação e Construção de Comunidade:**
+    * **Prioridade:** Começar a atrair mais colaboradores.
+    * **Ação:**
+        * Começar a anunciar nas comunidades relevantes mencionadas anteriormente.
+        * Criar documentação mais detalhada para mostrar o projeto e torná-lo mais atraente para os recém-chegados.
+        * Criar alguns vídeos ou postagens em blogs explicando o projeto.
+        * Configurar métricas básicas para rastrear o progresso de todos os esforços.
+5. **Explorar Opções Iniciais de Financiamento:**
+    * **Prioridade:** Começar a tornar o projeto sustentável
+    * **Ação:**
+        * Começar a documentar todas as despesas
+        * Começar a desenvolver material para a campanha de crowdfunding
+        * Explorar outras opções como subsídios e doações.
+
+**Por que esta Ordem?**
+
+* **Comunidade Primeiro:** O webapp é fundamental para reunir uma comunidade e direcionar esforços. Sem um lugar para se reunir, o projeto luta para decolar.
+* **Fundação Antes de Construir:** Estabelecer princípios fundamentais, documentação, ambiente de desenvolvimento e comunidade inicial ajuda a preparar o terreno para um desenvolvimento produtivo.
+* **Abordagem Iterativa:** Começar com recursos básicos do webapp, módulos iniciais do sistema operacional e infraestrutura mínima mantém as tarefas iniciais gerenciáveis e permite evolução com base no feedback inicial.
+* **Crescimento Sustentável:** Começar a divulgação e explorar financiamento cedo para fazer a comunidade crescer e garantir a estabilidade financeira do projeto.
+
+**Considerações Chave para o Início:**
+
+* **Simplicidade e Funcionalidade:** Não se prenda a recursos ou designs complexos no início. Foque na funcionalidade essencial.
+* **Comunicação Aberta:** Mantenha comunicação aberta com a pequena comunidade e solicite feedback.
+* **Transparência:** Seja transparente sobre decisões, progresso e desafios.
+* **Seja Ágil:** Espere iterar com base no feedback de usuários e colaboradores.
+
+Seguindo esses passos, o projeto "Arc OS" pode começar com uma base sólida, focando nos componentes mais essenciais para construir momentum, atrair uma comunidade e avançar em direção à realização de sua visão ambiciosa. Boa sorte!
