@@ -282,5 +282,3 @@ Para quaisquer perguntas ou preocupações sobre este Código de Conduta, entre 
 * **Comunicação Aberta:** Mantenha comunicação aberta com a pequena comunidade e solicite feedback.
 * **Transparência:** Seja transparente sobre decisões, progresso e desafios.
 * **Seja Ágil:** Espere iterar com base no feedback de usuários e colaboradores.
-
-Seguindo esses passos, o projeto "Arc OS" pode começar com uma base sólida, focando nos componentes mais essenciais para construir momentum, atrair uma comunidade e avançar em direção à realização de sua visão ambiciosa. Boa sorte!
