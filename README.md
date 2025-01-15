@@ -282,3 +282,9 @@ Para quaisquer perguntas ou preocupações sobre este Código de Conduta, entre 
 * **Comunicação Aberta:** Mantenha comunicação aberta com a pequena comunidade e solicite feedback.
 * **Transparência:** Seja transparente sobre decisões, progresso e desafios.
 * **Seja Ágil:** Espere iterar com base no feedback de usuários e colaboradores.
+
+## Junte-se a Nós
+
+Convidamos você a se juntar a nós nesta jornada emocionante. Entre em contato conosco hoje e vamos construir o futuro juntos.
+
+**[Junte-se à Comunidade](#)** | **[Contribua para o Projeto](#)**
