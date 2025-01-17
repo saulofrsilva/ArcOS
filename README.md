@@ -224,21 +224,7 @@ For any questions or concerns about this Code of Conduct, please contact us at [
         *   Start documenting all the expenses
         *   Start developing material for the crowdfunding campaign
         *   Explore other options like grants and donations.
-
-**Why this Order?**
-
-*   **Community First:** The webapp is paramount for assembling a community and directing efforts. Without a place to gather, the project struggles to get off the ground.
-*   **Foundation Before Building:** Establishing core principles, documentation, development environment and initial community helps set the stage for productive development.
-*   **Iterative Approach:** Starting with basic webapp features, initial OS modules and minimal infrastructure keeps initial tasks manageable and allows for evolution based on initial feedback.
-*   **Sustainable Growth:** Start outreach and explore funding early to get the community rolling and ensure the financial stability of the project.
-
-**Key Considerations for the Start:**
-
-*   **Simplicity and Functionality:** Don't get bogged down with complex features or designs early on. Focus on essential functionality.
-*   **Open Communication:** Maintain open communication with the small community and solicit feedback.
-*   **Transparency:** Be transparent about decisions, progress, and challenges.
-*   **Be Agile:** Expect to iterate based on user and contributor feedback.
-
+   
 ## Funding Model
 
 *   **Multi-Tiered Funding:**
