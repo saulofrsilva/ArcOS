@@ -1,0 +1,56 @@
+workspace list
+    home: ToDoList, scheduler, notifications
+    sys: hardware and software monitoring
+    code: tmux, nvim,
+    design: gimp, inkscape, obs
+    finance:
+    www: browser
+    social: irc
+    content: rss client, torrent, media player
+
+screens:
+
+1- Home
+Plan:
+    agenda,calendar,schedule,todolist
+    health
+        nutri
+        movement
+    work
+        projects
+    Noti center
+
+2- Console
+Plan:
+    Monintor
+        network
+        desktop
+        *mobile
+        *cloud
+    Terminal
+ToDo:
+
+3- Code
+Plan:
+
+4- Browser
+Plan:
+
+5- Finance
+Plan:
+
+6- Social
+Plan:
+    social media
+    chat
+
+7- Content
+Plan:
+    rss
+    torrent
+    player
+
+8- Gaming
+Plan:
+
+

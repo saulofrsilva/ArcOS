@@ -1,0 +1,22 @@
+ #tom() = [tuning  ricing];{
+     Accessibility
+    Assistive technologies
+    Accessibility settings
+    
+    accessibility
+assistance
+personalisation
+productivity
+Typesetting
+characters
+fonts
+Screensavers
+
+    
+    Internationalization and localization
+    Support for multiple languages and locales
+    Unicode support
+]
+ 
+ }
+ 

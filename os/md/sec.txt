@@ -1,0 +1,31 @@
+sec=[auth(identity  persona  anon)  sentry(firewall   packet-scan ) crypt]
+    Security tools
+    Security
+    Authentication and authorization
+    
+    Firewalls and intrusion detection/prevention systems
+    Security updates and patches
+    
+    Data encryption:
+    cryptography(algorithms,tools,libs and frameworks)
+    A/symmetric-key
+    Hash
+    Block/stream ciphers
+    Public-key 
+    digital certificates/signatures
+    Zero-knowledge proof
+    Homomorphic
+    Attribute-based
+    Identity-based
+    Functional
+    Quantum
+    Lattice-based
+    Multi-party computation
+    Secret sharing
+    Steganography
+    Post-quantum
+    checksum
+    digital certificates
+    security
+Cybersecurity
+User Access Control

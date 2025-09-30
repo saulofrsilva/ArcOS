@@ -1,0 +1,29 @@
+adm=[];{
+
+finance
+Finance and Insurance
+Accounting
+
+project management applications
+generic bookkeeping applications
+
+Personal information managers
+Reference management software
+Risk Management
+Administrative and Support
+
+Internal and proprietary line-of-business applications
+Groupware
+remote viewer
+base-ui(cloak,calculator,calendar,)
+}
+
+Office software
+word processors
+spreadsheets
+calendars
+
+ERM
+CRM
+POS
+

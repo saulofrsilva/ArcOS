@@ -1,0 +1,24 @@
+memory(@mem) = [web-archive(@web), record(@rec), prolog(@log), archive(@ark)]; {
+	web-archive(@web) = [network-map, content]
+	record(@rec) = [actual,manual,local,global]
+	prolog(@log) = [classification, correlation, derivation, evaluation, compression]
+	archive(@ark) = [formal, natural, social]
+}
+
+mem=[archive raw]
+    Archiving tools
+    Backup utilities
+    Disk management tools
+    work dirs
+    see how to manage fs
+    Data loss prevention
+    Data storage and management
+File managers
+compression
+Backup and Maintenance
+File Manipulation
+Manipulation of Directories and File Names
+weka
+file manager
+database
+]

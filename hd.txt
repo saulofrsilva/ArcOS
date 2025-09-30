@@ -1,0 +1,39 @@
+headers(metadata)=[nominal technical]{
+ nominal()=[descriptive statistical referential legal]{
+  Descriptive=[title description tags]{
+  title("Arc OS")
+  description("full-stack Operating System ARChitecture")
+  tags(attetion tokens)=[persistent volatile]{
+  p[]
+  v[]
+  #openSource software fullStack systemArchtecture
+  }
+  }
+  statistical=[version dating status]{
+   version(alpha-private)
+   dating()={
+    project-creation(2022)
+    first-publication(21.12.2024)[webpage-template]
+    alpha_release()
+    latest-release(domain-webPage)
+   }
+   status(under refactoring to public release)
+  }
+  referential=[forks contributions sources]{
+   sources()
+   contributions
+   forks()
+  }
+  legal=[license ownership copyright]
+ }
+ technical()=[Structural manual developmental]{
+  manual=[intro(easy-setup secure-build) usage(accessibility) documentation]
+  Structural=[schema dependencies root-of-trust] 
+  developmental=[guidelines on-boarding schedule release]
+ }
+}
+
+
+
+
+

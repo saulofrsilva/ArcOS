@@ -1,0 +1,11 @@
+log=[access  assist  check  track]
+    System logging and monitoring
+    Logging facilities
+    Monitoring tools
+    System monitoring tool with historical data service
+    Screencast
+    boot messages
+clipboard
+shell-history
+monitor
+log+notifications

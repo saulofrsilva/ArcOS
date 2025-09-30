@@ -1,0 +1,23 @@
+@rt=[boot cmd]{
+ boot=[bootloader initramfs kernel]{
+  bootLoader(limine)=[grub refind limine]{}
+  initRamFS(booster)[dracut booster]
+  kernel(linux)=[bsd linux fuchsia-zircon openindiana ironclad]{menuconfig modules}
+ }
+ cmd = [daemon filesystem shell library]{
+  daemon(s6)=[openrc runit sysd s6]
+   components("bin/init" pid1 process-supervision service-management)
+   service-management()=[]{
+    services(syslog cron getty login udev swapper alsa cryptdisk auto-mount cups acpi klog dbus fstab)
+   }
+  }
+  fileSystem(zfs)=[ext4 xfs btrfs fat32 zfs ntfs]{#goboLinux-mod-FSH}
+  shell(fish)[sh ash bash dash fish zsh]{
+   utils(toybox)[toybox busybox util-linux Core-utils]
+  }
+  library
+   languages = [c]{
+    c(musl_libc)=[toolchain]
+    langs(c)[cpp javascript python rust sql]
+    pacman(nix)[yum npm pip rpm pacman apt dpkg yarn]
+

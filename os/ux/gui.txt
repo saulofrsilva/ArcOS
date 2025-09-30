@@ -1,0 +1,87 @@
+@ux={
+    tui=[
+        terminal-emulatior
+
+
+    termux(alacritty,zsh,tmux,nvim,irssi,bpytop/bottom,)
+    utils(lsd,ag,fzf)
+    Text editors
+    File-manager(ranger,lf,midnight-commandernnn)
+    disk-util(duf)
+    rss-feed(newsboat)
+    reader(glow)
+    ]
+    
+    GUI=[ 
+    #check freedesktop
+    
+    desktop-enviroment:
+    display server(wayland, xorg)
+    x-compositor(picom)
+    window manager= x11(awesomewm, i3, dwm, xmonad);way(sway,hyprland,)
+    screen-saver
+    
+    authentication:
+    display manager(lightdm)
+    polkit
+    screen-locker
+    
+    
+    window-objects=[
+    
+    dashboard
+    bar
+    panel
+    dock
+    menu
+    launcher
+    system tray
+    taskbar
+    workspace list
+    ]
+    
+    theme: 
+    GTK
+    QT
+    
+    Customization and extensibility
+    Themes and icon sets
+    Third-party applications and extensions
+    
+    ui functionality:
+    display-look(backlight control,screen temp,screen capture,wallpaper setter,)
+    multimedia-control(audio,video)
+    power-management
+    notification daemon
+    sys info(cpu,ram,gpu,storage,power,network)
+    pgk management
+    todolist
+    logout dialogue
+    time/date/calendar/time-zones
+    keybinds
+    ]
+    
+    apps:
+    terminal-emulator(st,alacritty)
+    file-manager(TUI=lf,ranger;GUI=nemo,dolphin,pcmanfm)
+    browser(ungoogle chromium,hardened chromium,firefox,tor,brave)
+    feed-reader(feed-type=rss,json,atom,xml;pkg=tt-rss,)
+    torrent(qbittorrent)
+    streaming(kodi)
+    irc(irssi,weechat)
+    txt-editor/ide(vs-codium/neovim/vim/emacs,atom,ghostwriter)
+    audio-editor(audacityFORK(no metrics)/LMMS)
+    image-editor(gimp/inkscape)
+    graphic-editor(kadenlive/obs/blender/ffmpeg)
+    time-tracker
+    notes(joplin,planner,calendso,obsidian)
+    gaming(steam,lutris)
+    social-media(instagram,twitter,linkedin,reddit,discord,signal,whatsapp,quora,telegram,facebook)
+    password-manager(bitwarden/keypass)
+    file sharing(onion sharing)
+    disk-manager(gnome-disk-utility,gparted)
+    iso-writer(balena-etcher)
+    document-viewer(zathura)
+    appimage
+    virt-manager
+    task-manager

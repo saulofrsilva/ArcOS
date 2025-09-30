@@ -1,0 +1,31 @@
+standards:
+posix={
+base(at awk basename bc cal cat chgrp chmod chown cksum cmp comm cp csplit cut date dd df diff dirname du echo env expand expr file find fold fuser getconf grep head id join link ln logger logname ls man mkdir mkfifo more mv nice nl nohup od paste patch printf ps renice rm rmdir sed sh sleep sort split stty tabs tail tee test time touch tput tr tty uname unexpand uniq unlink uudecode uuencode vi wc who xargs zcat);
+shell(alias bg cd command false fc fg getopts hash jobs kill newgrp pwd read true umask unalias wait);
+Special Built-In(break colon continue dot eval exec exit export readonly return set shift times trap unset);
+}
+
+(lsb-posix)={
+core([ chfn chsh col cpio dmesg egrep fgrep groupadd groupdel groupmod groups gunzip gzip hostname install infocmp killall md5sum mknod mktemp mount passwd pidof seq shutdown su sync tar tic umount useradd userdel usermod);
+desktop(fc-cache fc-match xdg-desktop-menu xdg-icon-resource xdg-open fc-list xdg-desktop-icon xdg-email xdg-mime xdg-screensaver);
+Imaging(foomatic-rip gs);
+Languages(perl python);
+}
+-----------------------------------------
+implementations:
+
+busybox={
+[ [[ acpid addgroup adduser adjtimex ar arp arping ash awk basename beep blkid brctl bunzip2 bzcat bzip2 cal cat catv chat chattr chgrp chmod chown chpasswd chpst chroot chrt chvt cksum clear cmp comm cp cpio crond crontab cryptpw cut date dc dd deallocvt delgroup deluser depmod devmem df dhcprelay diff dirname dmesg dnsd dnsdomainname dos2unix dpkg du dumpkmap dumpleases echo ed egrep eject env envdir envuidgid expand expr fakeidentd false fbset fbsplash fdflush fdformat fdisk fgrep find findfs flash_lock flash_unlock fold free freeramdisk fsck fsck.minix fsync ftpd ftpget ftpput fuser getopt getty grep gunzip gzip hd hdparm head hexdump hostid hostname httpd hush hwclock id ifconfig ifdown ifenslave ifplugd ifup inetd init inotifyd insmod install ionice ip ipaddr ipcalc ipcrm ipcs iplink iproute iprule iptunnel kbd_mode kill killall killall5 klogd last length less linux32 linux64 linuxrc ln loadfont loadkmap logger login logname logread losetup lpd lpq lpr ls lsattr lsmod lzmacat lzop lzopcat makemime man md5sum mdev mesg microcom mkdir mkdosfs mkfifo mkfs.minix mkfs.vfat mknod mkpasswd mkswap mktemp modprobe more mount mountpoint mt mv nameif nc netstat nice nmeter nohup nslookup od openvt passwd patch pgrep pidof ping ping6 pipe_progress pivot_root pkill popmaildir printenv printf ps pscan pwd raidautorun rdate rdev readlink readprofile realpath reformime renice reset resize rm rmdir rmmod route rpm rpm2cpio rtcwake run-parts runlevel runsv runsvdir rx script scriptreplay sed sendmail seq setarch setconsole setfont setkeycodes setlogcons setsid setuidgid sh sha1sum sha256sum sha512sum showkey slattach sleep softlimit sort split start-stop-daemon stat strings stty su sulogin sum sv svlogd swapoff swapon switch_root sync sysctl syslogd tac tail tar taskset tcpsvd tee telnet telnetd test tftp tftpd time timeout top touch tr traceroute true tty ttysize udhcpc udhcpd udpsvd umount uname uncompress unexpand uniq unix2dos unlzma unlzop unzip uptime usleep uudecode uuencode vconfig vi vlock volname watch watchdog wc wget which who whoami xargs yes zcat zcip
+}
+
+toybox={
+acpi arch ascii base32 base64 basename bash blkdiscard blkid blockdev bunzip2 bzcat cal cat chattr chgrp chmod chown chroot chrt chvt cksum clear cmp comm count cp cpio crc32 cut date dd deallocvt devmem df dirname dmesg dnsdomainname dos2unix du echo egrep eject env expand factor fallocate false fgrep file find flock fmt free freeramdisk fsfreeze fstype fsync ftpget ftpput getconf gpiodetect gpiofind gpioget gpioinfo gpioset grep groups gunzip halt head help hexedit host hostname httpd hwclock i2cdetect i2cdump i2cget i2cset i2ctransfer iconv id ifconfig inotifyd insmod install ionice iorenice iotop kill killall killall5 link linux32 ln logger login logname losetup ls lsattr lsmod lspci lsusb makedevs mcookie md5sum microcom mix mkdir mkfifo mknod mkpasswd mkswap mktemp modinfo mount mountpoint mv nbdclient nbdserver nc netcat netstat nice nl nohup nproc nsenter od oneit openvt partprobe passwd paste patch pgrep pidof ping ping6 pivot_root pkill pmap poweroff printenv printf prlimit ps pwd pwdx pwgen readahead readelf readlink realpath reboot renice reset rev rfkill rm rmdir rmmod route rtcwake sed seq setfattr setsid sh sha1sum sha224sum sha256sum sha384sum sha3sum sha512sum shred shuf sleep sntp sort split stat strings su swapoff swapon switch_root sync sysctl tac tail tar taskset tee test time timeout top touch toysh true truncate tty tunctl uclampset ulimit umount uname unicode uniq unix2dos unlink unshare uptime usleep uudecode uuencode uuidgen vconfig vmstat w watch watchdog wc wget which who whoami xargs xxd yes zcat
+}
+
+coreutils={
+[ arch b2sum base32 base64 basename cat chcon chgrp chmod chown chroot cksum comm coreutils cp csplit cut date dd df dir dircolors dirname du echo env expand expr factor false fmt fold groups head hostid hostname id install join kill link ln logname ls md5sum mkdir mkfifo mknod mktemp mv nice nl nohup nproc numfmt od paste pathchk pinky pr printenv printf ptx pwd readlink realpath rm rmdir runcon seq sha1sum sha224sum sha256sum sha384sum sha512sum shred shuf sleep sort split stat stdbuf stty sum sync tac tail tee test timeout touch tr true truncate tsort tty uname unexpand uniq unlink uptime users vdir wc who whoami yes
+}
+
+util-linux={
+addpart agetty blkdiscard blkid blkzone blockdev cal cfdisk chcpu chfn chmem choom chrt chsh col colcrt colrm column ctrlaltdel delpart dmesg eject fallocate fdformat fdisk fincore findfs findmnt flock fsck fsck.cramfs fsck.minix fsfreeze fstrim getopt hardlink hexdump hwclock ionice ipcmk ipcrm ipcs irqtop isosize kill last ldattach line logger login look losetup lsblk lscpu lsfd lsipc lsirq lslocks lslogins lsmem lsns mcookie mesg mkfs mkfs.bfs mkfs.cramfs mkfs.minix mkswap more mount mountpoint namei newgrp nologin nsenter partx pg pivot_root prlimit raw readprofile rename renice reset resizepart rev rfkill rtcwake runuser script scriptlive scriptreplay setarch setpriv setsid setterm sfdisk su sulogin swaplabel swapoff swapon switch_root taskset tunelp ul umount unshare utmpdump uuidd uuidgen uuidparse vipw wall wdctl whereis wipefs write zramctl
+}

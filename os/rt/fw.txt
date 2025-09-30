@@ -1,0 +1,12 @@
+  firmware()=[architecture embedded drivers]{
+   architecture()=[X86_64 x32 arm arm64 riscv power-ibm apple-hw]{
+    X86_64()=[BIOS-UEFI microcode]{
+     BIOS-UEFI()=[SeaBIOS tianocore coreboot ]{
+      coreboot(skulls-config, heads-security)=[libreboot skulls heads]{}
+     }
+     microcode
+    }
+    #AArch64 arm arm64 ia32 mips mipsel ppc ppc64 RISC-V s390 s390x x32 x64 
+   }
+    drivers(graphics-card Wi-Fi_adapter printer)
+   }

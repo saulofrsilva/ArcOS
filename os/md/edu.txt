@@ -1,0 +1,11 @@
+
+edu=[];{
+education
+science
+language
+Mathematics
+Statistics
+Theology
+Educational Services
+Information
+}

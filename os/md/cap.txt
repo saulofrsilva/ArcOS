@@ -1,0 +1,20 @@
+
+cap=[]{
+Accommodation and Food Services
+Animal shelter and Animal rescue
+Agriculture, Forestry and Hunting
+Construction
+Health Care and Social Assistance
+Management of Companies and Enterprises
+Manufacturing
+Mining, Quarrying, and Oil and Gas Extraction
+Postal and Mailing
+Professional, Scientific, and Technical Services
+Public Administration
+Real Estate, Rental and Leasing
+Retail Trade
+Utilities
+Waste Management and Remediation Services
+Wholesale Trade
+Transportation and Warehousing
+}

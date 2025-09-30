@@ -1,0 +1,30 @@
+pkgtype(choice)[implementations options]
+
+-------------------------------------------------------------------
+
+rt(bootLoader initRamFS kernel daemon fileSystem shell utils libC Ccompiler packageManager)
+
+@ui={
+#text
+terminal-multiplexer(tmux)
+file-manager(ranger)
+text-editor(nvim)[vim vi nano ed sed emacs micro ed sed ]
+system-monitor(bottom)[bpytop htop]
+rss-feed(newsfeed)
+irc(irssi)
+mail()[mailcow, thunderbird]
+
+#graph
+sway
+waybar
+	
+#audio
+pipewire
+ausa
+audacity
+vlc
+
+
+
+}
+@md = {}

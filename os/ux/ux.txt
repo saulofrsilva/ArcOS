@@ -1,0 +1,43 @@
+input=[movement  sound ]{
+ movement(keyboard  mouse  touchpad  touchscreen  controller  device-buttons)
+ sound(NPL)
+}
+output=[display speaker]{}
+
+@ui = [input(@int) output(@out) text(@tui)  graph(@gui)  audio(@aud)]{
+  
+ @tui("Terminal User interface")=[]{
+  #file
+  text-editor(nvim)=[]{
+   pkgs(vim vi nano ed sed emacs micro ed sed )
+  }
+  doc-reader()
+  doc-viewer() 
+  
+  #sysadm
+   terminal-multiplexer(tmux)
+  file-manager(ranger)=[alt]{}
+  system-monitor(bottom)=[alt]{
+   pkgs(bpytop htop)
+  }
+  #web
+  rss-feed(newsfeed)
+  web-browser(ladybird)
+  irc(irssi)
+  mail
+  torrent
+  
+ }
+ @gui()=[desktop-enviroment(@deskEnv)  applications(@app)  settings]{
+  desktop-enviroment = [ ]
+  applications = [system  user  data  web ]{
+   system(terminal-emulator  file-manager  resource-monitor  disk-manager  iso-writer  virtualization-manager)
+   user(notes  activity/time-tracker  task-manager  profile\accounts\password\id-manager)
+   data(search/index/mapping/statistics/analitics  text/image/audio/video/3d player/gallery/library/editor/creator  encode/encrypt/compress/archive )
+   web(communication  research  streaming  update  feed  database  data-share )
+  }
+  settings = [sw-schema(fw  rt  ui  md)  hw-management  quick-menu(on_the_go reset/review)] #user-friendly access to basic sys-adm config #check traditional os setings app
+  }
+ @aud = [Equalization  events(calls  notification and alarms)  audio-player  voice-control]
+ }
+

@@ -1,0 +1,22 @@
+dev=[language  library  debug  tool-chain  package-manager  API]
+    package-manager()
+    c-toolchain(headers,binutils,compiler,libc)
+    
+    Development tools
+    Package Management System
+    Developer tools and APIs
+    Compilers and interpreters
+    Debuggers
+    Programming languages and libraries
+    Application Programming Interfaces (APIs)
+    Basic Program Development Tools
+    Programming language support
+    development
+programing
+libc and toolchain
+source code and documentation
+packages and updates
+langs and libs
+source code tracking(git,cvs)
+test and debug
+];

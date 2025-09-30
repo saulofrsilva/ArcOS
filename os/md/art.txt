@@ -1,0 +1,23 @@
+art=[];{
+Media
+music
+photo
+books
+video
+Image
+art
+design
+entertaiment
+games
+Graphics
+Multimedia
+Documents
+reference
+E-book management and editing
+Integrated library management software
+Arts, Entertainment, and Recreation
+Desktop publishing
+docviewer
+multimedia viewer(video,image,audio)
+audiolog
+}

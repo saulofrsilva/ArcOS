@@ -1,0 +1,10 @@
+sys=[];{
+    Performance optimization
+    Memory management techniques
+    CPU scheduling algorithms
+    Disk caching and prefetching
+    Terminal Handling
+    Running of Programs
+Status Inquiries
+jobcontrol
+processes

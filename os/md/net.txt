@@ -1,0 +1,56 @@
+net=[protocol  interface  service  mask]
+    standards
+    protocols
+    configuration
+    services
+    Wireless
+    
+    
+
+net=[
+    protocols(tcp/ip,)
+    interfaces(eth,wifi,bluetooth,radio,mesh)
+    configuration(dhcp,network-manager)
+    
+    services:
+    file-share(nfs,smb,ftp)
+
+    
+    http
+    ntp
+    ssh
+    
+    Index,Search
+    
+    vpn(wireguard,openvpn,surfshark,bitmask)
+    proxy
+    torrent
+    browser
+
+    local archiving:
+    dns(dnsmasq)
+    Index
+    search-engine(SearX)
+    web-crawl(Heritrix)
+    archive(archivebox)
+
+    mail
+    webserver
+    rsync
+    instant-masaging
+    ufw
+]
+cloud[microsoft_azure alibaba ibm oracle digital_ocean salesforce tencent cloudfare huawei dell cisco rackspace linode red_hat]
+
+
+cloud
+Internet
+network
+server
+Networking and Internet
+web browsers
+social
+communication
+news
+iot
+network protocols
